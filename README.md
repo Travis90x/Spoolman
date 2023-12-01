@@ -48,6 +48,7 @@ Spoolman can be installed in two ways, either directly on your machine or using 
 This installation guide assumes you are using a Debian-based Linux distribution such as Ubuntu, Armbian or Raspberry Pi OS. If you are using another distribution, please look inside the bash scripts to see what commands are being run and adapt them to your distribution.
 
 1. Download this repository to your machine. It is recommended that you download the latest release from the [Releases page](https://github.com/Donkie/Spoolman/releases). It's the `Source code (zip)` file that you want. Unzip the downloaded file using `unzip Spoolman-*.zip`. This will create a directory called `Spoolman-<version>`.
+
 You can also git clone the repository if you want to be on the bleeding edge.
 ```
 git clone https://github.com/Donkie/Spoolman.git
