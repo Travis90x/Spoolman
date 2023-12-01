@@ -49,7 +49,7 @@ This installation guide assumes you are using a Debian-based Linux distribution 
 
 1. Download this repository to your machine. It is recommended that you download the latest release from the [Releases page](https://github.com/Donkie/Spoolman/releases). It's the `Source code (zip)` file that you want. Unzip the downloaded file using `unzip Spoolman-*.zip`. This will create a directory called `Spoolman-<version>`.
 
-You can also git clone the repository if you want to be on the bleeding edge.
+1.1 You can also git clone the repository if you want to be on the bleeding edge.
 ```
 git clone https://github.com/Donkie/Spoolman.git
 cd Spoolman
