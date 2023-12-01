@@ -97,7 +97,7 @@ services:
 
 ## Prerequisites
 For Moonraker add in moonraker.cong the [spoolman] section following this documentation: https://moonraker.readthedocs.io/en/latest/configuration/#spoolman
-If the "server" use the same NIC of Monnraker, use
+If the "server" and the browser use the same NIC of Moonraker, you can use
 ```
 # moonraker.conf
 [spoolman]
